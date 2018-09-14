@@ -13,7 +13,7 @@
 1. 下载多轮对话设计器
 
 ```
-https://inst.chatopera.com/product/conversation-designer
+https://docs.chatopera.com/conversation-designer.html
 ```
 
 2. 下载**对话应用**
