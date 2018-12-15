@@ -1,0 +1,41 @@
+{
+    "name": "小H",
+    "primaryLanguage": "zh_CN",
+    "config":
+    {
+        "MAIL_SERVICE": "QQex",
+        "MAIL_ACCOUNT": "webot@chatopera.com",
+        "MAIL_PASSWORD": "yxLmqL+xEZ1",
+        "MAIL_RECEP": "info@chatopera.com"
+    },
+    "version": "0.5.0",
+    "conversations": [
+    {
+        "name": "greetings",
+        "enabled": true
+    },
+    {
+        "name": "basic",
+        "enabled": true
+    },
+    {
+        "name": "background",
+        "enabled": true
+    },
+    {
+        "name": "nlp",
+        "enabled": true
+    },
+    {
+        "name": "nodejs",
+        "enabled": true
+    },
+    {
+        "name": "mental",
+        "enabled": true
+    },
+    {
+        "name": "close",
+        "enabled": true
+    }]
+}
