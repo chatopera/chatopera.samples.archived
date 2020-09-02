@@ -1,6 +1,10 @@
-# chatbot-sales
-售前机器人
+# 项目已归档 !!!
 
+项目迁移合并，访问 [https://github.com/chatopera/chatbot-samples](https://github.com/chatopera/chatbot-samples) 获得更新。
+
+# chatbot-sales
+
+售前机器人
 
 ## 股票售前机器人
 
@@ -21,7 +25,6 @@ https://docs.chatopera.com/conversation-designer.html
 [小星.1.0.0.c66](https://github.com/chatopera/chatbot-sales/blob/master/金融证券/小星.1.0.0.c66)
 
 3. 导入**多轮对话设计器**
-
 
 [导入功能介绍见“快速开始”](https://docs.chatopera.com/conversation-designer.html)
 
